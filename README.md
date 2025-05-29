@@ -2,10 +2,10 @@
 
 ## 👩‍💻 About Me :
 A to-be Software Engineer from India!
-• 🌱 I'm currently working on a few web projects.
-• 🔬 Exploring the fields of machine learning and app development.
-• ⚡ Devoting consistent time to practising Data Structure to improve my problem-solving skills.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/       master/Assets/Mario_Hello_Big.gif" width="30px">
-• 📫 How to reach me:simonerodrigues12159@gmail.com<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="25px">
+• 🌱 Currently working on a few web projects.
+• 🔬 Fields of interest: Machine learning and Artificial Intelligence.
+• ⚡ Practising Data Structure to improve my problem-solving skills.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/       master/Assets/Mario_Hello_Big.gif" width="30px">
+• 📫 Let's connect: simonerodrigues12159@gmail.com<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="25px">
 
 ---
 
