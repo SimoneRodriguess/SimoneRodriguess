@@ -4,7 +4,9 @@
 A to-be Software Engineer from India!
 • 🌱 Currently working on a few ML/Compiler:LLVM projects.
 • 🔬 Fields of interest: Machine learning and Artificial Intelligence.
-• ⚡ Practicing Data Structures to improve my problem-solving skills.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/       master/Assets/Mario_Hello_Big.gif" width="30px">
+• ⚡ Practicing Data Structures to improve my problem-solving skills.
+• > (Some experiments live in my terminal longer than they make it to GitHub 😅 work in progress, not lack of work!)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/       master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 ---
