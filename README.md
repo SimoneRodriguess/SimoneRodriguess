@@ -8,40 +8,27 @@ A to-be Software Engineer from India!
 • 📫 Let's connect: simonerodrigues12159@gmail.com<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="25px">
 
 ---
-
 ## 🛠️ Languages
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-</p>
+| C | C++ | Python | JavaScript | TypeScript |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/> |
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45" height="45"/>
-</p>
+| React | Next.js | Node.js | Kotlin |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50"/> |
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔧 Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
-</p>
+| Git | Docker | Firebase | MySQL | MongoDB | Figma |
+|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/> |
 
 ---
 ## 🤝 Let's Connect
